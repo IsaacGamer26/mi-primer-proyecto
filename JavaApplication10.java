@@ -1,3 +1,6 @@
+/**
+ * @author Sergi Isaac León Chuchuca
+ */
 package javaapplication10;
 
 import java.util.Scanner;
