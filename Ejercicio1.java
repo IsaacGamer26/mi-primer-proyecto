@@ -1,6 +1,7 @@
 /**
  * @author Sergi Isaac León Chuchuca
  */
+
 package ejercicio1;
 
 import java.util.Scanner;
