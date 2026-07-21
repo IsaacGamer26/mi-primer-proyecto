@@ -1,3 +1,7 @@
+/**
+ * @author Sergi Isaac León Chuchuca
+ */
+
 package javaapplication7;
 
 import java.util.Scanner;
